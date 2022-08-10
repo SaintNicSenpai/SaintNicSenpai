@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaintNicSenpai
 - 👀 I’m interested in Data Analytics and Business Analyst 
-- 🌱 I’m currently learning data  Python , SQL , Tableau as well as Excel for Data Analytics
+- 🌱 Python , SQL , Tableau as well as Excel for Data Analytics
 - 💞️ I’m looking to collaborate on any Data cleaning , visualization and analysis
 - 📫 How to reach me kudanicole99@gmail.com/u18091688@tuks.co.za or Linkedin : https://www.linkedin.com/in/kudakwashe-nicholas-tsikaurere-965047160
 
